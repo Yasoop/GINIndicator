@@ -12,7 +12,6 @@ st.set_page_config(layout='wide')
 # Sidebar
 SideBarLinks()
 
-
 # Placeholder graph
 st.image("assets/posts/placeholderGraph.gif", caption="GINI vs Population (example)")
 
